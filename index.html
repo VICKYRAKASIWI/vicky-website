@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Vicky Rakasiwi - Public Relations Officer</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      line-height: 1.6;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    header, section, footer {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+    }
+    header {
+      background-color: #004080;
+      color: #fff;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    h1, h2 {
+      color: #004080;
+    }
+    nav {
+      background: #eee;
+      text-align: center;
+      padding: 10px 0;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #004080;
+      font-weight: bold;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      text-align: center;
+      font-size: 0.9em;
+      color: #666;
+      padding: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Vicky Rakasiwi, S.Ikom</h1>
+  <h2>Public Relations Officer</h2>
+  <p>
+    Selamat datang di website pribadi saya! Saya adalah seorang praktisi Humas yang bersemangat dalam memberikan kontribusi untuk pengembangan perusahaan dan menangani permasalahan yang ada dengan pendekatan yang efektif. Saya juga memiliki kecintaan dalam belajar dan membagikan pengetahuan kepada orang lain.
+  </p>
+</header>
+
+<nav>
+  <a href="#about">Tentang Saya</a>
+  <a href="#education">Pendidikan</a>
+  <a href="#skills">Keahlian</a>
+  <a href="#contact">Kontak</a>
+</nav>
+
+<section id="about">
+  <h2>Tentang Vicky Rakasiwi</h2>
+  <p>
+    Nama saya Vicky Rakasiwi, seorang Public Relations Officer yang siap memberikan kontribusi dalam pengembangan perusahaan melalui komunikasi yang efektif. Saya selalu bersemangat untuk belajar hal-hal baru dan berbagi pengetahuan dengan orang lain.
+  </p>
+  <p>
+    Pendidikan saya dimulai di Universitas Mercu Buana, di mana saya lulus dengan gelar S.Ikom (Sarjana Ilmu Komunikasi) dengan fokus pada Public Relations. Dalam perjalanan karir saya, saya telah belajar banyak tentang bagaimana cara terbaik untuk membangun citra perusahaan, menangani krisis, serta menciptakan hubungan yang baik dengan publik dan media.
+  </p>
+  <p>
+    Saya juga percaya bahwa PR bukan hanya tentang berbicara, tetapi tentang mendengarkan dan memahami kebutuhan klien atau audiens. Karena itu, saya senantiasa berusaha untuk mengembangkan diri dan mengasah keterampilan agar dapat memberikan solusi yang terbaik.
+  </p>
+</section>
+
+<section id="education">
+  <h2>Pendidikan</h2>
+  <ul>
+    <li><strong>Universitas Mercu Buana</strong><br />
+      Sarjana Ilmu Komunikasi (S.Ikom)<br />
+      Fokus pada Public Relations<br />
+      Selama kuliah, saya mendalami berbagai aspek ilmu komunikasi, terutama dalam hubungan masyarakat, manajemen krisis, media relations, dan pengembangan strategi komunikasi yang efektif. Ini membantu saya untuk menjadi lebih kompeten dalam dunia PR yang dinamis.
+    </li>
+  </ul>
+</section>
+
+<section id="skills">
+  <h2>Keahlian Saya</h2>
+  <ul>
+    <li><strong>Negosiasi:</strong> Mampu berkomunikasi dengan berbagai pihak dan mencapai kesepakatan yang saling menguntungkan.</li>
+    <li><strong>Problem Solving:</strong> Kemampuan untuk menemukan solusi dalam menghadapi tantangan dan permasalahan yang ada.</li>
+    <li><strong>Microsoft Office:</strong> Terampil dalam menggunakan berbagai aplikasi Microsoft Office (Word, Excel, PowerPoint).</li>
+    <li><strong>Visual Dokumentasi:</strong> Kemampuan untuk membuat materi visual yang menarik untuk berbagai keperluan komunikasi.</li>
+  </ul>
+</section>
+
+<section id="contact">
+  <h2>Hubungi Saya</h2>
+  <p>
+    Jika Anda tertarik untuk bekerja sama atau ingin berdiskusi lebih lanjut, Anda bisa menghubungi saya melalui beberapa cara berikut:
+  </p>
+  <ul>
+    <li>Email: <a href="mailto:vicky.raka07@gmail.com">vicky.raka07@gmail.com</a></li>
+    <li>Instagram: <a href="https://instagram.com/vickyraka7" target="_blank">@vickyraka7</a></li>
+    <li>Facebook: <a href="https://facebook.com/VickyRaka" target="_blank">@VickyRaka</a></li>
+  </ul>
+</section>
+
+<footer>
+  <p>&copy; 2025 Vicky Rakasiwi. Semua Hak Dilindungi.</p>
+</footer>
+
+</body>
+</html>
